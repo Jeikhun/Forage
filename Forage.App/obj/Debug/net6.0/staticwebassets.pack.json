@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\GF65\\OneDrive\\Desktop\\Forage\\ForageApp\\Forage.App\\wwwroot\\Images\\Companies\\04528d43-6c14-441f-8019-3e5d189c66b3codeacademy.webp",
+      "PackagePath": "staticwebassets\\Images\\Companies\\04528d43-6c14-441f-8019-3e5d189c66b3codeacademy.webp"
+    },
+    {
+      "Id": "C:\\Users\\GF65\\OneDrive\\Desktop\\Forage\\ForageApp\\Forage.App\\wwwroot\\Images\\Companies\\441dabf8-6df6-4dfc-830e-77a7eb08ffcccodeacademy.webp",
+      "PackagePath": "staticwebassets\\Images\\Companies\\441dabf8-6df6-4dfc-830e-77a7eb08ffcccodeacademy.webp"
+    },
+    {
+      "Id": "C:\\Users\\GF65\\OneDrive\\Desktop\\Forage\\ForageApp\\Forage.App\\wwwroot\\Images\\Companies\\83dd6eef-ff15-49af-a94f-c6bb62bb4677codeacademy.webp",
+      "PackagePath": "staticwebassets\\Images\\Companies\\83dd6eef-ff15-49af-a94f-c6bb62bb4677codeacademy.webp"
+    },
+    {
+      "Id": "C:\\Users\\GF65\\OneDrive\\Desktop\\Forage\\ForageApp\\Forage.App\\wwwroot\\Images\\Courses\\12290aaf-f47e-4c16-89be-68b42bf3d8b1codeacademy.webp",
+      "PackagePath": "staticwebassets\\Images\\Courses\\12290aaf-f47e-4c16-89be-68b42bf3d8b1codeacademy.webp"
+    },
+    {
+      "Id": "C:\\Users\\GF65\\OneDrive\\Desktop\\Forage\\ForageApp\\Forage.App\\wwwroot\\Images\\Courses\\ace26187-4f64-42ea-bea1-191b606e5f5ccodeacademy.webp",
+      "PackagePath": "staticwebassets\\Images\\Courses\\ace26187-4f64-42ea-bea1-191b606e5f5ccodeacademy.webp"
+    },
+    {
+      "Id": "C:\\Users\\GF65\\OneDrive\\Desktop\\Forage\\ForageApp\\Forage.App\\wwwroot\\Images\\Courses\\c2ed6c10-cb44-49f6-9c6d-b2bab6fec21dcodeacademy.webp",
+      "PackagePath": "staticwebassets\\Images\\Courses\\c2ed6c10-cb44-49f6-9c6d-b2bab6fec21dcodeacademy.webp"
+    },
+    {
+      "Id": "C:\\Users\\GF65\\OneDrive\\Desktop\\Forage\\ForageApp\\Forage.App\\wwwroot\\Images\\Interns\\ad886aa7-c2b5-4958-b918-bdc18375918bImg.jpg",
+      "PackagePath": "staticwebassets\\Images\\Interns\\ad886aa7-c2b5-4958-b918-bdc18375918bImg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GF65\\OneDrive\\Desktop\\Forage\\ForageApp\\Forage.App\\wwwroot\\Images\\Interns\\f02675dd-a09e-4840-8fb0-a67735132da5IMG_6664.jpg",
+      "PackagePath": "staticwebassets\\Images\\Interns\\f02675dd-a09e-4840-8fb0-a67735132da5IMG_6664.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GF65\\OneDrive\\Desktop\\Forage\\ForageApp\\Forage.App\\wwwroot\\Template\\Verify.html",
+      "PackagePath": "staticwebassets\\Template\\Verify.html"
+    },
+    {
+      "Id": "C:\\Users\\GF65\\OneDrive\\Desktop\\Forage\\ForageApp\\Forage.App\\wwwroot\\Videos\\CourseLessons\\37626547-51a4-4946-9178-b518461c267fMadrigal - Seni Dert Etmeler (Official Audio).mp4",
+      "PackagePath": "staticwebassets\\Videos\\CourseLessons\\37626547-51a4-4946-9178-b518461c267fMadrigal - Seni Dert Etmeler (Official Audio).mp4"
+    },
+    {
+      "Id": "C:\\Users\\GF65\\OneDrive\\Desktop\\Forage\\ForageApp\\Forage.App\\wwwroot\\Videos\\CourseLessons\\d7de74e7-8246-42d3-9159-46d6b9ee692fMadrigal - Seni Dert Etmeler (Official Audio).mp4",
+      "PackagePath": "staticwebassets\\Videos\\CourseLessons\\d7de74e7-8246-42d3-9159-46d6b9ee692fMadrigal - Seni Dert Etmeler (Official Audio).mp4"
+    },
+    {
+      "Id": "C:\\Users\\GF65\\OneDrive\\Desktop\\Forage\\ForageApp\\Forage.App\\wwwroot\\Videos\\Courses\\0439c468-ec10-4e3a-9feb-693f15fb3bbaMadrigal - Seni Dert Etmeler (Official Audio).mp4",
+      "PackagePath": "staticwebassets\\Videos\\Courses\\0439c468-ec10-4e3a-9feb-693f15fb3bbaMadrigal - Seni Dert Etmeler (Official Audio).mp4"
+    },
+    {
+      "Id": "C:\\Users\\GF65\\OneDrive\\Desktop\\Forage\\ForageApp\\Forage.App\\wwwroot\\Videos\\Courses\\c198a0db-8d28-4199-9233-98c6d1cc1716Madrigal - Seni Dert Etmeler (Official Audio).mp4",
+      "PackagePath": "staticwebassets\\Videos\\Courses\\c198a0db-8d28-4199-9233-98c6d1cc1716Madrigal - Seni Dert Etmeler (Official Audio).mp4"
+    },
+    {
+      "Id": "C:\\Users\\GF65\\OneDrive\\Desktop\\Forage\\ForageApp\\Forage.App\\wwwroot\\Videos\\Courses\\df419367-5024-40e1-b1f1-6a1847b05366Madrigal - Seni Dert Etmeler (Official Audio).mp4",
+      "PackagePath": "staticwebassets\\Videos\\Courses\\df419367-5024-40e1-b1f1-6a1847b05366Madrigal - Seni Dert Etmeler (Official Audio).mp4"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Forage.App.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Forage.App.props",
+      "PackagePath": "build\\Forage.App.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Forage.App.props",
+      "PackagePath": "buildMultiTargeting\\Forage.App.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Forage.App.props",
+      "PackagePath": "buildTransitive\\Forage.App.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
